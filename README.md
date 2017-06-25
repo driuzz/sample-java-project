@@ -1,1 +1,1 @@
-Sample Java project with basic Maven configuration.
+Sample Java 8 project with basic Maven configuration.
