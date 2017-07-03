@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>driuzz</groupId>
-    <artifactId>aware-scheduler</artifactId>
+    <artifactId>sample-project</artifactId>
     <version>0.0.1</version>
     <packaging>jar</packaging>
 
